@@ -1,1 +1,1 @@
-# Other
+#Solving tasks of PyNEng 
